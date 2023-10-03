@@ -30,7 +30,7 @@ You can see a live demo of the digital clock **[here](http://127.0.0.1:5500/cloc
 
 **•Contributions:-**
 
-I encourage contributions from the open-source community. If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or submit a pull request. Let's make this digital clock even better together!
+I encourage contributions from the open-source community. If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or submit a pull request. Let's make this wall clock even better together!
 
 **•Acknowledgments:-**
 
