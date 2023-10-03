@@ -35,3 +35,6 @@ I encourage contributions from the open-source community. If you have any sugges
 **•Acknowledgments:-**
 
 I'd like to thank the online coding community for their support and inspiration. This project wouldn't have been possible without the knowledge and resources available from various online tutorials and forums.
+
+
+Thank you for visiting my GitHub repository. I hope you find this digital clock project useful and enjoy using it in your web applications. If you have any questions or feedback, please don't hesitate to reach out. 
