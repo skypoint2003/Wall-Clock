@@ -3,7 +3,7 @@
 
 **•Project Overview:-**
 
-Greetings, fellow developers! Today, I'm excited to share a fun little project I've been working on – a digital wall clock implemented entirely using HTML, CSS, and JavaScript. This project combines my passion for web development with my fascination for timekeeping, resulting in a visually appealing and functional digital wall clock.
+Greetings, fellow developers! Today, I'm excited to share a fun little project I've been working on – a wall clock implemented entirely using HTML, CSS, and JavaScript. This project combines my passion for web development with my fascination for timekeeping, resulting in a visually appealing and functional digital wall clock.
 
 **•Key Features:-**
 
